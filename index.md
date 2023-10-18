@@ -12,3 +12,10 @@ var exampleVar = "example value";
 ``` python
 answer = input("type the answer: ")
 ```
+
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] another example
+

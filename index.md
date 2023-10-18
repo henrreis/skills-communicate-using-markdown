@@ -2,16 +2,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-added an <h1> header example
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
